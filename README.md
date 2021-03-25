@@ -4,6 +4,7 @@
 
 You will install the following tools.
 
+- Browser
 - Zoom
 - Visual Studio Code
 - iTerm2
@@ -15,6 +16,14 @@ You will install the following tools.
 > 💡 Visual Studio Code is the most important tool we need on day one. If you have any problems with the other steps please don't panic - we can solve these together 👋
 
 > 💡 During the installation of most toolings you will be asked to "close the terminal and open a new terminal". That is because during the setup of most toolings certain settings / configurations of your computer will be changed. These changed settings will not be active until you open a new terminal.
+
+## Browser
+
+Most developers out there use a Chrome-based browser to develop web applications. While Edge, Safari and all other browsers work well we will use a Chrome-based browser in this bootcamp.
+
+You can either install [Google Chrome](https://www.google.com/chrome/) or (if you prefer privacy) you can install the [Brave Browser](https://brave.com/) (which is indeed a Chrome without any sniffing parts).
+
+> Recommendation: Use the [Brave Browser](https://brave.com/) 🔥
 
 ## Zoom
 
